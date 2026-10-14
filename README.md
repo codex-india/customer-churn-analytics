@@ -9,7 +9,7 @@ This project focuses on analyzing customer retention data to identify key factor
 * **Calculations:** DAX (Data Analysis Expressions)
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ## 💡 Key Business Insights Discovered
 1. **Contract Type:** Customers on a **Month-to-Month contract** have the highest churn rate compared to one-year or two-year contracts.
